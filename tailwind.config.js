@@ -6,6 +6,14 @@ export default {
       fontFamily: {
         inter: ["Inter", "sans-serif"],
       },
+      colors: {
+        primary: "#00D8FF",
+        secondary: "#21222A",
+        tertiary: "#282D35",
+      },
+      backgroundImage: {
+        main: "url('/src/assets/reactjs-icon.svg')",
+      },
     },
   },
   plugins: [],

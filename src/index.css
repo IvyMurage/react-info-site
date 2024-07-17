@@ -6,3 +6,8 @@
 * {
   font-family: 'Inter', sans-serif;
 }
+
+li::marker {
+  font-size: 1.8rem;
+  color: #00D8FF;
+}
